@@ -58,9 +58,3 @@ The blog covers design decisions and edge cases.
 - If something breaks or feels off, that’s useful feedback
 
 This will evolve as I use it more.
-
----
-
-## License
-
-MIT
