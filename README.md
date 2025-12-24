@@ -36,4 +36,4 @@ Just a working API → notebook bridge.
 
 For background, design decisions, and a walkthrough, see the accompanying blog post:
 
-**https://apps-ir.com/run-cortex-xsiam-xql-hunts-via-the-public-api-from-a-jupyter-notebook-1151cb225d50**
+## [Blog: Running XSIAM XQL via the Public API](https://apps-ir.com/run-cortex-xsiam-xql-hunts-via-the-public-api-from-a-jupyter-notebook-1151cb225d50)
