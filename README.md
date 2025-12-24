@@ -47,7 +47,7 @@ This repository is paired with a short walkthrough that explains **why** this ex
 [Running XSIAM XQL via the Public API from a Jupyter notebook](https://apps-ir.com/run-cortex-xsiam-xql-hunts-via-the-public-api-from-a-jupyter-notebook-1151cb225d50)
 
 The blog covers design decisions and edge cases.  
-The repo stays focused on the code.
+
 
 ---
 
